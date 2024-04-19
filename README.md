@@ -1,7 +1,5 @@
-# <img width="24px" src="./Logo/256.png" alt="Sonarr"></img> Sonarr 
-
-Modified Sonarr from AieMassfiria
-Change TransferMode.HardLinkOrCopy to TransferMode.Move, when completed download it moves the file instead of Hardlink. Good solution when using cloud storage. Much faster!!
+# <img width="24px" src="./Logo/256.png" alt="Sonarr"></img> Modified Sonarr from AieMassfiria
+Change TransferMode.HardLinkOrCopy to TransferMode.Move, when completed download it moves the file instead of Hardlink. Good solution when using cloud storage. Much faster!! 
 
 [![Translated](https://translate.servarr.com/widgets/servarr/-/sonarr/svg-badge.svg)](https://translate.servarr.com/engage/servarr/)
 [![Backers on Open Collective](https://opencollective.com/Sonarr/backers/badge.svg)](#backers)
